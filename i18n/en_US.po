@@ -1,0 +1,46 @@
+# Translation for Service Industry Terminology
+msgid ""
+msgstr ""
+"Project-Id-Version: service_industry_terminology 1.0\n"
+"Report-Msgid-Bugs-To:\n"
+"POT-Creation-Date: 2025-01-01 00:00+0000\n"
+"PO-Revision-Date: 2025-01-01 00:00+0000\n"
+"Last-Translator: You\n"
+"Language-Team: en_US\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. module: service_industry_terminology
+msgid "Product"
+msgstr "Service"
+
+#. module: service_industry_terminology
+msgid "Products"
+msgstr "Services"
+
+#. module: service_industry_terminology
+msgid "Sale Order"
+msgstr "Work Order"
+
+#. module: service_industry_terminology
+msgid "Sales Order"
+msgstr "Work Order"
+
+#. module: service_industry_terminology
+msgid "Sales Orders"
+msgstr "Work Orders"
+
+#. module: service_industry_terminology
+msgid "Quotation"
+msgstr "Estimate"
+
+#. module: service_industry_terminology
+msgid "Quotations"
+msgstr "Estimates"
+
+#. module: service_industry_terminology
+msgid "Delivery Address"
+msgstr "Service Address"
